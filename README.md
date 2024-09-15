@@ -1,5 +1,6 @@
-<br/>
 # Wordle
+
+
 Wordle, a popular puzzle game, built with Next.js and Tailwind.
 
 ## Development
