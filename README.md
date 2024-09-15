@@ -1,14 +1,6 @@
 <br/>
-
-  <h1 align="center">Wordle Clone</h1>
-
-  <p align="center">
-    Wordle, a popular puzzle game, built with Next.js and Tailwind.
-    <br />
-  </p>
-</p>
-
-<br />
+# Wordle
+Wordle, a popular puzzle game, built with Next.js and Tailwind.
 
 ## Development
 
