@@ -3,7 +3,7 @@
   <h1 align="center">Wordle Clone</h1>
 
   <p align="center">
-    Wordle Clone built with Next.js and tailwindcss.
+    Wordle, a popular puzzle game, built with Next.js and Tailwind.
     <br />
   </p>
 </p>
